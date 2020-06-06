@@ -1,0 +1,723 @@
+State,Postcode,SuburbName,SA4_NAME, Number of Female individuals   ,  Yearly average taxable income of Female   , Number of Male individuals  ,  Yearly average taxable income of Male   ,Over all average taxable income of suburb
+NSW,2000,Barangaroo,Sydney - City and Inner South,2724,"$36,711 ",2648,"$55,488 ",46100
+NSW,2000,Dawes Point,Sydney - City and Inner South,1724,"$37,711 ",3448,"$56,488 ",47100
+NSW,2000,Haymarket,Sydney - City and Inner South,2724,"$38,711 ",3548,"$57,488 ",48100
+NSW,2000,Millers Point,Sydney - City and Inner South,3724,"$33,511 ",4648,"$58,488 ",46000
+NSW,2000,The Rocks ,Sydney - City and Inner South,3724,"$33,311 ",6648,"$59,488 ",46400
+NSW,2000,Sydney,Sydney - City and Inner South,1724,"$33,711 ",1648,"$55,488 ",44600
+NSW,2006,The University Of Sydney,Sydney - City and Inner South,43,"$49,913 ",59,"$85,742 ",67828
+NSW,2007,Ultimo,Sydney - City and Inner South,2155,"$39,923 ",2574,"$52,633 ",46278
+NSW,2008,Darlington ,Sydney - City and Inner South,2470,"$48,315 ",1796,"$58,039 ",53177
+NSW,2008,Chippendale,Sydney - City and Inner South,2370,"$47,315 ",2796,"$59,039 ",53177
+NSW,2009,Pyrmont,Sydney - City and Inner South,4540,"$64,365 ",5074,"$103,659 ",84012
+NSW,2010,Darlinghurst,Sydney - City and Inner South,9079,"$61,382 ",10504,"$86,081 ",73732
+NSW,2010,Surry Hills,Sydney - City and Inner South,8079,"$62,382 ",11504,"$87,081 ",74732
+NSW,2011,Elizabeth Bay,Sydney - City and Inner South,2404,"$70,769 ",2048,"$96,562 ",83666
+NSW,2011,Rushcutters Bay,Sydney - City and Inner South,2704,"$70,869 ",2058,"$96,462 ",83666
+NSW,2011,Woolloomooloo,Sydney - City and Inner South,2804,"$70,769 ",2048,"$96,362 ",83566
+NSW,2011,Potts Point,Sydney - City and Inner South,2604,"$70,669 ",2048,"$96,162 ",83416
+NSW,2015,Beaconsfield ,Sydney - City and Inner South,1243,"$64,962 ",1664,"$78,353 ",71658
+NSW,2015,Eveleigh,Sydney - City and Inner South,2243,"$64,852 ",1664,"$78,453 ",71653
+NSW,2015,Alexandria,Sydney - City and Inner South,1243,"$64,752 ",1664,"$79,353 ",72053
+NSW,2016,Redfern,Sydney - City and Inner South,3348,"$59,381 ",4542,"$72,082 ",65732
+NSW,2017,Zetland,Sydney - City and Inner South,2818,"$53,401 ",3761,"$69,341 ",61371
+NSW,2017,Waterloo,Sydney - City and Inner South,2818,"$52,501 ",3761,"$68,341 ",60421
+NSW,2018,Eastlakes,Sydney - City and Inner South,1907,"$48,500 ",2220,"$57,278 ",52889
+NSW,2018,Rosebery,Sydney - City and Inner South,2907,"$47,500 ",2220,"$57,278 ",52389
+NSW,2019,Banksmeadow,Sydney - City and Inner South,1823,"$51,219 ",1828,"$69,124 ",60172
+NSW,2019,Botany Bay,Sydney - City and Inner South,1823,"$50,219 ",1328,"$68,124 ",59172
+NSW,2019,Botany,Sydney - City and Inner South,1823,"$51,219 ",928,"$67,124 ",59172
+NSW,2020,Mascot,Sydney - City and Inner South,3792,"$48,200 ",4300,"$60,462 ",54331
+NSW,2021,Centennial Park ,Sydney - Eastern Suburbs,1452,"$86,402 ",1211,"$139,881 ",113142
+NSW,2021,Moore Park,Sydney - Eastern Suburbs,1452,"$85,502 ",2211,"$138,781 ",112142
+NSW,2021,Paddington,Sydney - Eastern Suburbs,3452,"$87,402 ",2211,"$138,881 ",113142
+NSW,2022,Queens Park ,Sydney - Eastern Suburbs,2480,"$65,318 ",2537,"$90,941 ",78130
+NSW,2022,Bondi Junction,Sydney - Eastern Suburbs,2480,"$64,318 ",1537,"$91,941 ",78130
+NSW,2023,Bellevue Hill,Sydney - Eastern Suburbs,3729,"$113,258 ",3378,"$201,441 ",157350
+NSW,2024,Waverley ,Sydney - Eastern Suburbs,1746,"$76,293 ",1530,"$152,825 ",114559
+NSW,2024,Bronte,Sydney - Eastern Suburbs,1746,"$75,293 ",1530,"$151,825 ",113559
+NSW,2025,Woollahra,Sydney - Eastern Suburbs,2856,"$96,701 ",2425,"$163,600 ",130151
+NSW,2026,Bondi,Sydney - Eastern Suburbs,5742,"$64,693 ",1774,"$104,393 ",84543
+NSW,2026,North Bondi,Sydney - Eastern Suburbs,1742,"$64,593 ",6774,"$104,293 ",84443
+NSW,2026,Tamarama,Sydney - Eastern Suburbs,2742,"$64,693 ",2774,"$104,193 ",84443
+NSW,2026,Bondi Beach,Sydney - Eastern Suburbs,2742,"$64,793 ",1774,"$104,493 ",84643
+NSW,2027,Edgecliff,Sydney - Eastern Suburbs,1261,"$135,840 ",2810,"$274,490 ",205165
+NSW,2027,Point Piper,Sydney - Eastern Suburbs,9261,"$134,840 ",810,"$274,490 ",204665
+NSW,2027,Darling Point,Sydney - Eastern Suburbs,1261,"$134,840 ",810,"$274,490 ",204665
+NSW,2028,Double Bay,Sydney - Eastern Suburbs,1867,"$106,431 ",1526,"$160,522 ",133477
+NSW,2029,Rose Bay,Sydney - Eastern Suburbs,3624,"$78,167 ",3222,"$128,945 ",103556
+NSW,2030,Dover Heights,Sydney - Eastern Suburbs,1868,"$112,887 ",2774,"$195,842 ",154365
+NSW,2030,Watsons Bay,Sydney - Eastern Suburbs,1868,"$112,987 ",1774,"$195,342 ",154165
+NSW,2030,Vaucluse,Sydney - Eastern Suburbs,2868,"$112,787 ",1774,"$195,642 ",154215
+NSW,2031,Clovelly,Sydney - Eastern Suburbs,1771,"$78,896 ",5998,"$98,632 ",88764
+NSW,2031,Randwick,Sydney - Eastern Suburbs,11771,"$68,896 ",10998,"$90,632 ",79764
+NSW,2032,Daceyville,Sydney - Eastern Suburbs,2036,"$45,729 ",4369,"$69,868 ",57799
+NSW,2032,Kingsford,Sydney - Eastern Suburbs,4036,"$48,729 ",4359,"$64,868 ",56799
+NSW,2033,Kensington,Sydney - Eastern Suburbs,3360,"$57,879 ",3585,"$81,342 ",69611
+NSW,2034,Coogee,Sydney - Eastern Suburbs,7255,"$66,303 ",6771,"$101,529 ",83916
+NSW,2034,South Coogee,Sydney - Eastern Suburbs,4255,"$65,303 ",4771,"$99,529 ",82416
+NSW,2035,Pagewood,Sydney - Eastern Suburbs,5219,"$50,935 ",5274,"$76,208 ",63572
+NSW,2035,Maroubra,Sydney - Eastern Suburbs,5219,"$54,935 ",4274,"$78,208 ",66572
+NSW,2036,Chifley ,Sydney - Eastern Suburbs,1805,"$49,348 ",1010,"$69,484 ",59416
+NSW,2036,Eastgardens,Sydney - Eastern Suburbs,2805,"$59,348 ",1010,"$79,484 ",69416
+NSW,2036,Hillsdale,Sydney - Eastern Suburbs,3805,"$47,348 ",8210,"$67,484 ",57416
+NSW,2036,La Perouse,Sydney - Eastern Suburbs,7805,"$48,348 ",2010,"$68,484 ",58416
+NSW,2036,Little Bay,Sydney - Eastern Suburbs,4805,"$49,348 ",3010,"$64,484 ",56916
+NSW,2036,Malabar,Sydney - Eastern Suburbs,1805,"$49,348 ",1010,"$65,484 ",57416
+NSW,2036,Phillip Bay,Sydney - Eastern Suburbs,5805,"$52,348 ",1010,"$61,484 ",56916
+NSW,2036,Port Botany,Sydney - Eastern Suburbs,1805,"$59,348 ",1010,"$79,484 ",69416
+NSW,2036,Matraville,Sydney - Eastern Suburbs,1805,"$59,348 ",1010,"$69,484 ",64416
+NSW,2037,Forest Lodge,Sydney - City and Inner South,2477,"$61,505 ",2411,"$88,664 ",75085
+NSW,2037,Glebe,Sydney - City and Inner South,2477,"$63,505 ",2411,"$84,664 ",74085
+NSW,2038,Annandale,Sydney - Inner West,3045,"$74,560 ",2821,"$97,567 ",86064
+NSW,2039,Rozelle,Sydney - Inner West,2913,"$76,800 ",2713,"$108,968 ",92884
+NSW,2040,Leichhardt,Sydney - Inner West,4675,"$67,300 ",6257,"$91,447 ",79374
+NSW,2040,Lilyfield,Sydney - Inner West,3675,"$69,300 ",4257,"$91,547 ",80424
+NSW,2041,Balmain East,Sydney - Inner West,5489,"$90,242 ",5195,"$145,975 ",118109
+NSW,2041,Birchgrove,Sydney - Inner West,4489,"$95,242 ",5195,"$149,975 ",122609
+NSW,2041,Balmain,Sydney - Inner West,5489,"$90,242 ",5195,"$145,975 ",118109
+NSW,2042,Enmore ,Sydney - City and Inner South,3157,"$69,657 ",6273,"$82,529 ",76093
+NSW,2042,Newtown,Sydney - City and Inner South,6157,"$59,657 ",6273,"$72,529 ",66093
+NSW,2043,Erskineville,Sydney - City and Inner South,2441,"$66,778 ",2579,"$86,529 ",76654
+NSW,2044,Sydenham ,Sydney - City and Inner South,1323,"$66,321 ",1611,"$70,028 ",68175
+NSW,2044,Tempe,Sydney - City and Inner South,2323,"$54,321 ",2611,"$62,028 ",58175
+NSW,2044,St Peters,Sydney - City and Inner South,2323,"$54,321 ",2611,"$62,028 ",58175
+NSW,2045,Haberfield,Sydney - Inner West,2020,"$76,505 ",2027,"$106,131 ",91318
+NSW,2046,Canada Bay,Sydney - Inner West,2346,"$63,173 ",1817,"$87,123 ",75148
+NSW,2046,Chiswick,Sydney - Inner West,2346,"$63,173 ",1817,"$97,123 ",80148
+NSW,2046,Rodd Point,Sydney - Inner West,2346,"$69,173 ",2817,"$77,123 ",73148
+NSW,2046,Five Dock,Sydney - Inner West,1346,"$75,173 ",5817,"$87,123 ",81148
+NSW,2046,Russell Lea,Sydney - Inner West,1346,"$80,173 ",1817,"$99,123 ",89648
+NSW,2046,Wareemba,Sydney - Inner West,1346,"$66,173 ",7817,"$87,123 ",76648
+NSW,2047,Drummoyne,Sydney - Inner West,4007,"$74,580 ",3619,"$107,501 ",91041
+NSW,2048,Stanmore,Sydney - City and Inner South,2490,"$61,872 ",2438,"$79,360 ",70616
+NSW,2049,Lewisham ,Sydney - City and Inner South,1333,"$79,612 ",3213,"$95,958 ",87785
+NSW,2049,Petersham,Sydney - City and Inner South,2333,"$59,612 ",3263,"$75,958 ",67785
+NSW,2050,Camperdown,Sydney - City and Inner South,2563,"$66,599 ",2516,"$83,924 ",75262
+NSW,2052,Kensington,Sydney - Eastern Suburbs,68,"$22,458 ",91,"$38,389 ",30424
+NSW,2060,Lavender Bay,Sydney - North Sydney and Hornsby,1122,"$76,576 ",1066,"$102,465 ",89521
+NSW,2060,McMahons Point,Sydney - North Sydney and Hornsby,1122,"$80,576 ",1066,"$122,465 ",101521
+NSW,2060,Waverton,Sydney - North Sydney and Hornsby,1122,"$70,576 ",1066,"$132,465 ",101521
+NSW,2060,North Sydney,Sydney - North Sydney and Hornsby,5122,"$85,576 ",1066,"$102,465 ",94021
+NSW,2061,Milsons Point,Sydney - North Sydney and Hornsby,1177,"$80,932 ",1042,"$114,109 ",97521
+NSW,2061,Kirribilli,Sydney - North Sydney and Hornsby,1177,"$89,932 ",1042,"$144,109 ",117021
+NSW,2062,Cammeray,Sydney - North Sydney and Hornsby,2472,"$77,450 ",2280,"$116,697 ",97074
+NSW,2063,Northbridge,Sydney - North Sydney and Hornsby,2141,"$93,514 ",2033,"$213,697 ",153606
+NSW,2064,Artarmon,Sydney - North Sydney and Hornsby,3022,"$60,915 ",3051,"$96,364 ",78640
+NSW,2065,Crows Nest ,Sydney - North Sydney and Hornsby,2273,"$73,797 ",2001,"$110,870 ",92334
+NSW,2065,Greenwich,Sydney - North Sydney and Hornsby,2273,"$70,797 ",2001,"$120,870 ",95834
+NSW,2065,Naremburn,Sydney - North Sydney and Hornsby,2273,"$83,797 ",3001,"$110,270 ",97034
+NSW,2065,St Leonards ,Sydney - North Sydney and Hornsby,2273,"$86,797 ",1001,"$99,870 ",93334
+NSW,2065,Wollstonecraft,Sydney - North Sydney and Hornsby,2273,"$70,797 ",2001,"$88,870 ",79834
+NSW,2066,Lane Cove,Sydney - North Sydney and Hornsby,2273,"$78,797 ",1001,"$100,117 ",89457
+NSW,2066,Lane Cove West,Sydney - North Sydney and Hornsby,2273,"$79,797 ",2001,"$110,117 ",94957
+NSW,2066,Linley Point,Sydney - North Sydney and Hornsby,2273,"$77,797 ",1001,"$120,117 ",98957
+NSW,2066,Longueville,Sydney - North Sydney and Hornsby,2273,"$87,797 ",1001,"$120,117 ",103957
+NSW,2066,Northwood ,Sydney - North Sydney and Hornsby,2273,"$70,797 ",1001,"$126,117 ",98457
+NSW,2066,Riverview ,Sydney - North Sydney and Hornsby,2273,"$71,797 ",3001,"$127,117 ",99457
+NSW,2066,Lane Cove North,Sydney - North Sydney and Hornsby,9372,"$71,156 ",8961,"$120,117 ",95637
+NSW,2067,Chatswood West,Sydney - North Sydney and Hornsby,3959,"$59,080 ",7788,"$88,923 ",74002
+NSW,2067,Chatswood,Sydney - North Sydney and Hornsby,3959,"$56,080 ",3788,"$78,923 ",67502
+NSW,2068,Castlecrag,Sydney - North Sydney and Hornsby,1233,"$75,453 ",1111,"$145,494 ",110474
+NSW,2068,Middle Cove,Sydney - North Sydney and Hornsby,3444,"$89,453 ",2344,"$143,494 ",116474
+NSW,2068,North Willoughby,Sydney - North Sydney and Hornsby,1123,"$70,453 ",1123,"$141,494 ",105974
+NSW,2068,Willoughby East,Sydney - North Sydney and Hornsby,1134,"$76,453 ",3455,"$143,494 ",109974
+NSW,2068,Willoughby,Sydney - North Sydney and Hornsby,5327,"$70,453 ",5120,"$142,494 ",106474
+NSW,2069,Castle Cove,Sydney - North Sydney and Hornsby,4566,"$88,555 ",1234,"$100,000 ",94278
+NSW,2069,Roseville Chase,Sydney - North Sydney and Hornsby,1542,"$78,655 ",2342,"$99,655 ",89155
+NSW,2069,Roseville,Sydney - North Sydney and Hornsby,1333,"$86,261 ",4433,"$153,160 ",119711
+NSW,2070,East Lindfield,Sydney - North Sydney and Hornsby,1233,"$87,555 ",1557,"$129,000 ",108278
+NSW,2070,Lindfield,Sydney - North Sydney and Hornsby,3304,"$73,211 ",1959,"$145,678 ",109445
+NSW,2071,East Killara,Sydney - North Sydney and Hornsby,4394,"$77,141 ",4087,"$131,344 ",104243
+NSW,2071,Killara,Sydney - North Sydney and Hornsby,4394,"$71,141 ",4087,"$141,344 ",106243
+NSW,2072,Gordon,Sydney - North Sydney and Hornsby,2504,"$64,454 ",2304,"$118,189 ",91322
+NSW,2073,West Pymble,Sydney - North Sydney and Hornsby,2509,"$70,119 ",2048,"$129,951 ",100035
+NSW,2073,Pymble,Sydney - North Sydney and Hornsby,2309,"$68,119 ",3048,"$127,951 ",98035
+NSW,2074,North Turramurra,Sydney - North Sydney and Hornsby,2427,"$65,169 ",6928,"$123,514 ",94342
+NSW,2074,South Turramurra,Sydney - North Sydney and Hornsby,1427,"$69,169 ",6928,"$125,514 ",97342
+NSW,2074,Warrawee,Sydney - North Sydney and Hornsby,2427,"$67,169 ",6928,"$128,514 ",97842
+NSW,2074,Turramurra,Sydney - North Sydney and Hornsby,3427,"$70,169 ",6928,"$133,514 ",101842
+NSW,2075,St Ives Chase,Sydney - North Sydney and Hornsby,3663,"$64,663 ",6329,"$114,199 ",89431
+NSW,2075,St Ives,Sydney - North Sydney and Hornsby,2663,"$68,663 ",6329,"$113,199 ",90931
+NSW,2076,Normanhurst,Sydney - North Sydney and Hornsby,2637,"$61,026 ",7373,"$122,313 ",91670
+NSW,2076,North Wahroonga,Sydney - North Sydney and Hornsby,2637,"$65,026 ",7373,"$120,313 ",92670
+NSW,2076,Wahroonga,Sydney - North Sydney and Hornsby,3637,"$68,026 ",7373,"$125,313 ",96670
+NSW,2077,Asquith,Sydney - North Sydney and Hornsby,2649,"$45,542 ",1001,"$67,189 ",56366
+NSW,2077,Hornsby Heights,Sydney - North Sydney and Hornsby,2649,"$47,542 ",2001,"$65,189 ",56366
+NSW,2077,Waitara,Sydney - North Sydney and Hornsby,3649,"$50,542 ",7001,"$67,189 ",58866
+NSW,2077,Hornsby,Sydney - North Sydney and Hornsby,2649,"$45,542 ",5001,"$68,189 ",56866
+NSW,2079,Mount Colah,Sydney - North Sydney and Hornsby,2198,"$48,040 ",2307,"$72,980 ",60510
+NSW,2080,Mount Colah,Sydney - North Sydney and Hornsby,516,"$59,692 ",536,"$77,250 ",68471
+NSW,2080,Mount Kuring-Gai,Sydney - North Sydney and Hornsby,516,"$55,692 ",536,"$75,250 ",65471
+NSW,2081,Cowan,Sydney - North Sydney and Hornsby,1313,"$49,782 ",1687,"$74,328 ",62055
+NSW,2081,Berowra,Sydney - North Sydney and Hornsby,1613,"$45,782 ",1687,"$75,328 ",60555
+NSW,2082,Berowra Heights,Sydney - North Sydney and Hornsby,1615,"$45,911 ",1653,"$72,079 ",58995
+NSW,2083,Dangar Island,Sydney - North Sydney and Hornsby,434,"$47,689 ",493,"$65,085 ",56387
+NSW,2083,Milsons Passage,Sydney - North Sydney and Hornsby,434,"$59,689 ",493,"$64,085 ",61887
+NSW,2083,Mooney Mooney,Sydney - North Sydney and Hornsby,434,"$45,689 ",493,"$69,085 ",57387
+NSW,2083,Brooklyn,Sydney - North Sydney and Hornsby,434,"$49,689 ",493,"$64,085 ",56887
+NSW,2084,Cottage Point,Sydney - Northern Beaches,1202,"$70,108 ",1221,"$107,152 ",88630
+NSW,2084,Duffys Forest,Sydney - Northern Beaches,1202,"$72,108 ",1221,"$105,152 ",88630
+NSW,2084,Ku-Ring-Gai Chase,Sydney - Northern Beaches,1202,"$80,108 ",1221,"$104,152 ",92130
+NSW,2084,Terrey Hills,Sydney - Northern Beaches,1202,"$70,108 ",1221,"$110,152 ",90130
+NSW,2085,Davidson,Sydney - Northern Beaches,3603,"$55,652 ",3534,"$80,757 ",68205
+NSW,2085,Belrose,Sydney - Northern Beaches,3603,"$50,652 ",3534,"$87,757 ",69205
+NSW,2086,Frenchs Forest,Sydney - Northern Beaches,4018,"$52,999 ",4140,"$88,057 ",70528
+NSW,2087,Killarney Heights,Sydney - Northern Beaches,3778,"$64,693 ",3724,"$85,577 ",75135
+NSW,2087,Forestville,Sydney - Northern Beaches,3778,"$54,693 ",3724,"$95,577 ",75135
+NSW,2088,Mosman,Sydney - North Sydney and Hornsby,10303,"$102,562 ",9218,"$227,543 ",165053
+NSW,2089,Kurraba Point,Sydney - North Sydney and Hornsby,4672,"$75,822 ",4138,"$115,486 ",95654
+NSW,2089,Neutral Bay,Sydney - North Sydney and Hornsby,4672,"$72,822 ",4138,"$120,486 ",96654
+NSW,2090,Cremorne Point,Sydney - North Sydney and Hornsby,4895,"$82,830 ",4210,"$135,272 ",109051
+NSW,2090,Cremorne,Sydney - North Sydney and Hornsby,4895,"$79,830 ",4210,"$136,272 ",108051
+NSW,2092,Seaforth,Sydney - Northern Beaches,2223,"$74,981 ",2201,"$164,475 ",119728
+NSW,2093,Balgowlah Heights,Sydney - Northern Beaches,7207,"$65,647 ",7127,"$121,527 ",93587
+NSW,2093,Clontarf ,Sydney - Northern Beaches,7207,"$67,647 ",7127,"$121,527 ",94587
+NSW,2093,Manly Vale,Sydney - Northern Beaches,7207,"$63,647 ",7127,"$125,527 ",94587
+NSW,2093,North Balgowlah,Sydney - Northern Beaches,7207,"$69,647 ",7127,"$118,527 ",94087
+NSW,2093,Balgowlah,Sydney - Northern Beaches,7207,"$70,647 ",7127,"$120,527 ",95587
+NSW,2094,Fairlight,Sydney - Northern Beaches,2105,"$69,515 ",1998,"$114,798 ",92157
+NSW,2095,Manly,Sydney - Northern Beaches,5875,"$69,590 ",6019,"$127,836 ",98713
+NSW,2096,Curl Curl,Sydney - Northern Beaches,4774,"$89,875 ",4969,"$102,812 ",96344
+NSW,2096,Queenscliff ,Sydney - Northern Beaches,2874,"$92,875 ",4969,"$106,812 ",99844
+NSW,2096,Freshwater,Sydney - Northern Beaches,4874,"$89,875 ",4969,"$102,812 ",96344
+NSW,2097,Collaroy,Sydney - Northern Beaches,4867,"$55,502 ",4842,"$98,039 ",76771
+NSW,2099,Cromer ,Sydney - Northern Beaches,12368,"$48,901 ",12685,"$76,546 ",62724
+NSW,2099,Narraweena,Sydney - Northern Beaches,12368,"$58,901 ",12685,"$72,546 ",65724
+NSW,2099,North Curl Curl,Sydney - Northern Beaches,12368,"$50,901 ",12685,"$78,546 ",64724
+NSW,2099,Dee Why,Sydney - Northern Beaches,12368,"$48,901 ",12685,"$72,546 ",60724
+NSW,2100,Allambie Heights,Sydney - Northern Beaches,6502,"$50,269 ",6800,"$75,212 ",62741
+NSW,2100,Brookvale,Sydney - Northern Beaches,6502,"$55,269 ",6800,"$76,782 ",66026
+NSW,2100,North Manly,Sydney - Northern Beaches,6502,"$52,269 ",6800,"$71,232 ",61751
+NSW,2100,Oxford Falls,Sydney - Northern Beaches,6502,"$53,269 ",6800,"$79,212 ",66241
+NSW,2100,Beacon Hill,Sydney - Northern Beaches,6502,"$50,769 ",6800,"$78,212 ",64491
+NSW,2101,Narrabeen,Sydney - Northern Beaches,6000,"$52,483 ",6049,"$81,370 ",66927
+NSW,2102,Warriewood,Sydney - Northern Beaches,2188,"$51,170 ",2064,"$85,869 ",68520
+NSW,2103,Mona Vale,Sydney - Northern Beaches,3618,"$53,244 ",3549,"$79,800 ",66522
+NSW,2104,Bayview,Sydney - Northern Beaches,1221,"$71,952 ",1156,"$118,162 ",95057
+NSW,2105,Church Point,Sydney - Northern Beaches,664,"$74,617 ",697,"$109,218 ",91918
+NSW,2106,Newport,Sydney - Northern Beaches,3232,"$61,480 ",3216,"$94,836 ",78158
+NSW,2107,Sydney - Northern Beaches,Sydney - Northern Beaches,4858,"$53,203 ",4989,"$87,082 ",70143
+NSW,2107,Avalon Beach,Sydney - Northern Beaches,4858,"$57,203 ",4989,"$97,082 ",77143
+NSW,2108,Great Mackerel Beach,Sydney - Northern Beaches,642,"$95,288 ",648,"$165,372 ",130330
+NSW,2108,Palm Beach,Sydney - Northern Beaches,642,"$92,288 ",648,"$163,372 ",127830
+NSW,2110,Hunters Hill,Sydney - Ryde,3109,"$101,325 ",2916,"$201,402 ",151364
+NSW,2111,Henley,Sydney - Ryde,4472,"$67,949 ",4286,"$97,590 ",82770
+NSW,2111,Huntleys Cove,Sydney - Ryde,4472,"$64,569 ",4286,"$95,590 ",80080
+NSW,2111,Huntleys Point,Sydney - Ryde,4472,"$63,569 ",4286,"$92,590 ",78080
+NSW,2111,Tennyson Point,Sydney - Ryde,4472,"$69,949 ",4286,"$95,590 ",82770
+NSW,2111,Gladesville,Sydney - Ryde,4472,"$62,949 ",4286,"$95,650 ",79300
+NSW,2112,Denistone East,Sydney - Ryde,8788,"$54,036 ",8769,"$75,138 ",64587
+NSW,2112,Putney,Sydney - Ryde,8788,"$59,036 ",8769,"$79,138 ",69087
+NSW,2112,Ryde,Sydney - Ryde,8788,"$51,036 ",8769,"$71,138 ",61087
+NSW,2113,East Ryde,Sydney - Ryde,5645,"$59,911 ",5837,"$72,178 ",66045
+NSW,2113,Macquarie Park,Sydney - Ryde,5645,"$52,911 ",5837,"$70,178 ",61545
+NSW,2113,North Ryde,Sydney - Ryde,5645,"$49,911 ",5837,"$71,178 ",60545
+NSW,2114,Denistone,Sydney - Ryde,6752,"$49,470 ",7035,"$64,953 ",57212
+NSW,2114,Denistone West,Sydney - Ryde,6752,"$48,470 ",7035,"$61,953 ",55212
+NSW,2114,Meadowbank ,Sydney - Ryde,6752,"$45,470 ",7035,"$60,953 ",53212
+NSW,2114,Melrose Park ,Sydney - Ryde,6752,"$42,470 ",7035,"$65,953 ",54212
+NSW,2114,West Ryde,Sydney - Ryde,6752,"$48,470 ",7035,"$64,953 ",56712
+NSW,2115,Ermington,Sydney - Parramatta,2524,"$45,159 ",2757,"$59,648 ",52404
+NSW,2116,Rydalmere,Sydney - Parramatta,1611,"$43,752 ",1764,"$58,010 ",50881
+NSW,2117,Dundas ,Sydney - Parramatta,5423,"$40,904 ",5689,"$69,130 ",55017
+NSW,2117,Dundas Valley,Sydney - Parramatta,5423,"$44,904 ",5689,"$63,130 ",54017
+NSW,2117,Telopea,Sydney - Parramatta,5423,"$50,904 ",5689,"$67,130 ",59017
+NSW,2117,Oatlands,Sydney - Parramatta,5423,"$45,904 ",5689,"$60,130 ",53017
+NSW,2118,Carlingford,Sydney - Parramatta,6730,"$45,086 ",6923,"$62,954 ",54020
+NSW,2119,Cheltenham ,Sydney - Ryde,3738,"$65,790 ",3517,"$101,062 ",83426
+NSW,2119,Beecroft,Sydney - Ryde,3738,"$60,790 ",3517,"$106,062 ",83426
+NSW,2120,Thornleigh,Sydney - Ryde,6314,"$59,790 ",6372,"$80,133 ",69962
+NSW,2120,Westleigh,Sydney - Ryde,6314,"$49,790 ",6372,"$80,133 ",64962
+NSW,2120,Pennant Hills,Sydney - Ryde,6314,"$49,790 ",6372,"$80,133 ",64962
+NSW,2121,North Epping,Sydney - Ryde,8387,"$44,903 ",8614,"$64,956 ",54930
+NSW,2121,Epping,Sydney - Ryde,8387,"$49,903 ",8614,"$74,956 ",62430
+NSW,2122,Marsfield,Sydney - Ryde,9294,"$49,070 ",9362,"$60,982 ",55026
+NSW,2122,Eastwood,Sydney - Ryde,9294,"$45,070 ",9362,"$62,982 ",54026
+NSW,2125,West Pennant Hills,Sydney - Baulkham Hills and Hawkesbury,5460,"$55,951 ",5407,"$100,296 ",78124
+NSW,2126,Cherrybrook,Sydney - Baulkham Hills and Hawkesbury,5895,"$47,674 ",5909,"$83,765 ",65720
+NSW,2127,Newington ,Sydney - Parramatta,3386,"$55,159 ",3547,"$76,435 ",65797
+NSW,2127,Wentworth Point,Sydney - Parramatta,3386,"$54,159 ",3547,"$70,435 ",62297
+NSW,2127,Sydney Olympic Park,Sydney - Parramatta,3386,"$52,159 ",3547,"$72,435 ",62297
+NSW,2128,Silverwater,Sydney - Parramatta,439,"$43,698 ",621,"$52,410 ",48054
+NSW,2130,Summer Hill,Sydney - Inner West,2311,"$59,115 ",2202,"$73,811 ",66463
+NSW,2131,Ashfield,Sydney - Inner West,6565,"$47,557 ",7081,"$56,158 ",51858
+NSW,2132,Croydon,Sydney - Inner West,3044,"$51,555 ",3036,"$66,508 ",59032
+NSW,2133,Croydon Park,Sydney - Inner West,3026,"$47,141 ",2946,"$60,264 ",53703
+NSW,2134,Burwood,Sydney - Inner West,4304,"$42,353 ",4554,"$51,982 ",47168
+NSW,2135,Strathfield,Sydney - Inner West,7368,"$55,479 ",8634,"$70,545 ",63012
+NSW,2136,Burwood Heights,Sydney - Inner West,2134,"$45,015 ",2259,"$60,227 ",52621
+NSW,2136,Enfield ,Sydney - Inner West,2134,"$45,015 ",2259,"$64,227 ",54621
+NSW,2136,Strathfield South,Sydney - Inner West,2134,"$49,015 ",2259,"$62,227 ",55621
+NSW,2137,Breakfast Point,Sydney - Inner West,7892,"$60,635 ",7996,"$80,759 ",70697
+NSW,2137,Cabarita ,Sydney - Inner West,7892,"$58,635 ",7996,"$82,759 ",70697
+NSW,2137,Mortlake ,Sydney - Inner West,7892,"$59,635 ",7996,"$81,759 ",70697
+NSW,2137,Concord,Sydney - Inner West,7892,"$60,635 ",7996,"$87,759 ",74197
+NSW,2137,North Strathfield,Sydney - Inner West,7892,"$56,635 ",7996,"$85,759 ",71197
+NSW,2138,Concord West,Sydney - Inner West,5118,"$47,590 ",5375,"$72,076 ",59833
+NSW,2138,Liberty Grove,Sydney - Inner West,5118,"$49,590 ",5375,"$71,076 ",60333
+NSW,2138,Sydney Olympic Park,Sydney - Inner West,5118,"$45,590 ",5375,"$75,076 ",60333
+NSW,2138,Rhodes,Sydney - Inner West,5118,"$47,590 ",5375,"$70,076 ",58833
+NSW,2140,Strathfield ,Sydney - Inner West,3549,"$45,132 ",4652,"$55,817 ",50475
+NSW,2140,Homebush,Sydney - Inner West,3549,"$43,132 ",4652,"$53,817 ",48475
+NSW,2141,Berala,Sydney - Parramatta,6736,"$37,303 ",8264,"$48,539 ",42921
+NSW,2141,Rookwood ,Sydney - Parramatta,6736,"$40,303 ",8264,"$46,539 ",43421
+NSW,2141,Lidcombe,Sydney - Parramatta,6736,"$39,303 ",8264,"$46,539 ",42921
+NSW,2142,Holroyd,Sydney - Parramatta,4759,"$36,372 ",6586,"$41,673 ",39023
+NSW,2142,Rosehill ,Sydney - Parramatta,4759,"$37,372 ",6586,"$42,673 ",40023
+NSW,2142,South Granville,Sydney - Parramatta,4759,"$38,372 ",6586,"$45,673 ",42023
+NSW,2142,Clyde ,Sydney - Parramatta,4759,"$39,372 ",6586,"$46,673 ",43023
+NSW,2142,Granville,Sydney - Parramatta,4759,"$40,372 ",6586,"$47,673 ",44023
+NSW,2143,Birrong,Sydney - Parramatta,1756,"$41,172 ",2242,"$48,180 ",44676
+NSW,2143,Potts Hill,Sydney - Parramatta,1756,"$45,172 ",2242,"$49,180 ",47176
+NSW,2143,Regents Park,Sydney - Parramatta,1756,"$40,172 ",2242,"$48,180 ",44176
+NSW,2144,Auburn,Sydney - Parramatta,6199,"$33,505 ",10085,"$37,974 ",35740
+NSW,2145,Constitution Hill,Sydney - Parramatta,18837,"$41,748 ",22633,"$58,992 ",50370
+NSW,2145,Girraween ,Sydney - Parramatta,18837,"$42,748 ",22633,"$57,992 ",50370
+NSW,2145,Mays Hill,Sydney - Parramatta,18837,"$44,748 ",22633,"$56,992 ",50870
+NSW,2145,Pemulwuy,Sydney - Parramatta,18837,"$45,748 ",22633,"$58,592 ",52170
+NSW,2145,Pendle Hill,Sydney - Parramatta,18837,"$41,748 ",22633,"$58,792 ",50270
+NSW,2145,South Wentworthville,Sydney - Parramatta,18837,"$45,748 ",22633,"$56,992 ",51370
+NSW,2145,Wentworthville,Sydney - Parramatta,18837,"$42,748 ",22633,"$52,992 ",47870
+NSW,2145,Westmead,Sydney - Parramatta,18837,"$46,748 ",22633,"$55,992 ",51370
+NSW,2145,Greystanes,Sydney - Parramatta,18837,"$43,748 ",22633,"$58,992 ",51370
+NSW,2146,Toongabbie,Sydney - Parramatta,4320,"$43,162 ",5035,"$57,206 ",50184
+NSW,2147,Kings Langley,Sydney - Blacktown,9005,"$45,692 ",10238,"$57,005 ",51349
+NSW,2147,Lalor Park,Sydney - Blacktown,9005,"$42,692 ",10238,"$58,005 ",50349
+NSW,2147,Seven Hills,Sydney - Blacktown,9005,"$42,692 ",10238,"$58,005 ",50349
+NSW,2148,Arndell Park,Sydney - Blacktown,14396,"$39,755 ",17707,"$53,868 ",46812
+NSW,2148,Kings Park ,Sydney - Blacktown,14396,"$37,755 ",17707,"$52,868 ",45312
+NSW,2148,Marayong,Sydney - Blacktown,14396,"$36,755 ",17707,"$54,868 ",45812
+NSW,2148,Prospect ,Sydney - Blacktown,14396,"$39,755 ",17707,"$51,868 ",45812
+NSW,2148,Blacktown,Sydney - Blacktown,14396,"$40,755 ",17707,"$51,868 ",46312
+NSW,2150,Parramatta,Sydney - Parramatta,7073,"$39,744 ",10041,"$60,588 ",50166
+NSW,2151,North Parramatta,Sydney - Parramatta,5616,"$45,768 ",5914,"$63,343 ",54556
+NSW,2151,North Parramatta,Sydney - Parramatta,5616,"$47,768 ",5914,"$63,343 ",55556
+NSW,2152,Northmead,Sydney - Parramatta,3130,"$48,618 ",3113,"$62,695 ",55657
+NSW,2153,Bella Vista,Sydney - Baulkham Hills and Hawkesbury,16639,"$49,656 ",17072,"$74,987 ",62322
+NSW,2153,Winston Hills,Sydney - Baulkham Hills and Hawkesbury,16639,"$47,656 ",17072,"$72,987 ",60322
+NSW,2153,Baulkham Hills,Sydney - Baulkham Hills and Hawkesbury,16639,"$47,656 ",17072,"$72,987 ",60322
+NSW,2154,Castle Hill,Sydney - Baulkham Hills and Hawkesbury,12086,"$50,759 ",12136,"$83,426 ",67093
+NSW,2155,Kellyville Ridge,Sydney - Baulkham Hills and Hawkesbury,13845,"$54,271 ",14621,"$79,631 ",66951
+NSW,2155,Rouse Hill,Sydney - Baulkham Hills and Hawkesbury,13845,"$50,271 ",14621,"$77,631 ",63951
+NSW,2155,Kellyville,Sydney - Baulkham Hills and Hawkesbury,13845,"$50,271 ",14621,"$77,631 ",63951
+NSW,2156,Annangrove,Sydney - Baulkham Hills and Hawkesbury,4232,"$57,205 ",4353,"$93,230 ",75218
+NSW,2156,Kenthurst,Sydney - Baulkham Hills and Hawkesbury,4232,"$58,205 ",4353,"$92,230 ",75218
+NSW,2156,Glenhaven,Sydney - Baulkham Hills and Hawkesbury,4232,"$60,205 ",4353,"$95,230 ",77718
+NSW,2157,Canoelands,Sydney - Baulkham Hills and Hawkesbury,1129,"$45,149 ",1153,"$70,676 ",57913
+NSW,2157,Glenorie,Sydney - Baulkham Hills and Hawkesbury,1129,"$48,149 ",1153,"$72,676 ",60413
+NSW,2158,Middle Dural,Sydney - Baulkham Hills and Hawkesbury,2741,"$59,069 ",2749,"$100,331 ",79700
+NSW,2158,Dural,Sydney - Baulkham Hills and Hawkesbury,2741,"$56,069 ",2749,"$107,331 ",81700
+NSW,2159,Arcadia ,Sydney - Baulkham Hills and Hawkesbury,1626,"$50,573 ",1642,"$78,994 ",64784
+NSW,2159,Fiddletown,Sydney - Baulkham Hills and Hawkesbury,1626,"$52,573 ",1642,"$77,994 ",65284
+NSW,2159,Galston,Sydney - Baulkham Hills and Hawkesbury,1626,"$52,573 ",1642,"$77,994 ",65284
+NSW,2160,Merrylands West,Sydney - Parramatta,7149,"$39,583 ",9205,"$48,510 ",44047
+NSW,2160,Merrylands,Sydney - Parramatta,7149,"$39,583 ",9205,"$48,510 ",44047
+NSW,2161,Guildford West,Sydney - Parramatta,5355,"$38,162 ",7264,"$45,223 ",41693
+NSW,2161,Old Guildford,Sydney - Parramatta,5355,"$39,162 ",7264,"$46,223 ",42693
+NSW,2161,Yennora,Sydney - Parramatta,5355,"$35,162 ",7264,"$47,223 ",41193
+NSW,2161,Guildford,Sydney - Parramatta,5355,"$38,162 ",7264,"$45,223 ",41693
+NSW,2162,Sefton,Sydney - Parramatta,3423,"$37,810 ",4455,"$45,425 ",41618
+NSW,2162,Chester Hill,Sydney - Parramatta,3423,"$38,810 ",4455,"$47,425 ",43118
+NSW,2163,Carramar ,Sydney - Inner South West,1372,"$39,702 ",1959,"$45,107 ",42405
+NSW,2163,Lansdowne   ,Sydney - Inner South West,1372,"$38,702 ",1959,"$44,107 ",41405
+NSW,2163,Villawood,Sydney - Inner South West,1372,"$37,702 ",1959,"$43,107 ",40405
+NSW,2164,Wetherill Park,Sydney - South West,4136,"$43,064 ",5249,"$55,450 ",49257
+NSW,2164,Woodpark,Sydney - South West,4136,"$41,064 ",5249,"$52,450 ",46757
+NSW,2164,Smithfield,Sydney - South West,4136,"$41,064 ",5249,"$52,450 ",46757
+NSW,2165,Fairfield East,Sydney - South West,6841,"$37,384 ",8943,"$45,274 ",41329
+NSW,2165,Fairfield Heights,Sydney - South West,6841,"$39,384 ",8943,"$49,274 ",44329
+NSW,2165,Fairfield West,Sydney - South West,6841,"$40,384 ",8943,"$42,274 ",41329
+NSW,2165,Fairfield,Sydney - South West,6841,"$37,384 ",8943,"$46,274 ",41829
+NSW,2166,Cabramatta West,Sydney - South West,9497,"$35,062 ",12175,"$44,867 ",39965
+NSW,2166,Canley Heights,Sydney - South West,9497,"$36,062 ",12175,"$45,867 ",40965
+NSW,2166,Canley Vale,Sydney - South West,9497,"$34,062 ",12175,"$49,867 ",41965
+NSW,2166,Lansvale,Sydney - South West,9497,"$39,002 ",12175,"$45,867 ",42435
+NSW,2166,Cabramatta,Sydney - South West,9497,"$37,062 ",12175,"$43,867 ",40465
+NSW,2167,Glenfield,Sydney - Outer South West,2218,"$42,087 ",2556,"$57,200 ",49644
+NSW,2168,Ashcroft,Sydney - South West,7846,"$39,662 ",9980,"$50,593 ",45128
+NSW,2168,Busby,Sydney - South West,7846,"$33,662 ",9980,"$51,593 ",42628
+NSW,2168,Cartwright,Sydney - South West,7846,"$35,662 ",9980,"$49,593 ",42628
+NSW,2168,Heckenberg,Sydney - South West,7846,"$40,662 ",9980,"$46,593 ",43628
+NSW,2168,Hinchinbrook ,Sydney - South West,7846,"$39,662 ",9980,"$47,593 ",43628
+NSW,2168,Miller,Sydney - South West,7846,"$32,662 ",9980,"$48,593 ",40628
+NSW,2168,Sadleir,Sydney - South West,7846,"$36,662 ",9980,"$46,593 ",41628
+NSW,2168,Green Valley,Sydney - South West,7846,"$38,662 ",9980,"$49,593 ",44128
+NSW,2170,Casula,Sydney - South West,21110,"$41,878 ",25625,"$56,243 ",49061
+NSW,2170,Chipping Norton,Sydney - South West,21110,"$42,878 ",25625,"$54,243 ",48561
+NSW,2170,Hammondville,Sydney - South West,21110,"$41,878 ",25625,"$53,243 ",47561
+NSW,2170,Lurnea,Sydney - South West,21110,"$41,878 ",25625,"$55,243 ",48561
+NSW,2170,Moorebank,Sydney - South West,21110,"$46,878 ",25625,"$58,243 ",52561
+NSW,2170,Mount Pritchard,Sydney - South West,21110,"$41,878 ",25625,"$51,243 ",46561
+NSW,2170,Prestons,Sydney - South West,21110,"$44,878 ",25625,"$52,243 ",48561
+NSW,2170,Warwick Farm,Sydney - South West,21110,"$49,878 ",25625,"$57,243 ",53561
+NSW,2170,Liverpool,Sydney - South West,21110,"$41,878 ",25625,"$54,243 ",48061
+NSW,2171,Cecil Hills,Sydney - South West,8381,"$44,547 ",9415,"$60,930 ",52739
+NSW,2171,Elizabeth Hills,Sydney - South West,8381,"$43,547 ",9415,"$61,930 ",52739
+NSW,2171,Horningsea Park,Sydney - South West,8381,"$42,547 ",9415,"$59,930 ",51239
+NSW,2171,Hoxton Park,Sydney - South West,8381,"$46,547 ",9415,"$58,930 ",52739
+NSW,2171,Middleton Grange,Sydney - South West,8381,"$44,547 ",9415,"$60,950 ",52749
+NSW,2171,West Hoxton,Sydney - South West,8381,"$47,547 ",9415,"$60,330 ",53939
+NSW,2172,Pleasure Point,Sydney - South West,605,"$52,256 ",706,"$77,763 ",65010
+NSW,2172,Sandy Point ,Sydney - South West,605,"$52,206 ",706,"$77,063 ",64635
+NSW,2172,Voyager Point,Sydney - South West,605,"$52,206 ",706,"$77,063 ",64635
+NSW,2173,Wattle Grove,Sydney - South West,3872,"$44,515 ",4293,"$67,961 ",56238
+NSW,2174,Edmondson Park,Sydney - South West,266,"$46,315 ",324,"$63,834 ",55075
+NSW,2175,Horsley Park,Sydney - South West,480,"$49,546 ",569,"$62,095 ",55821
+NSW,2176,Abbotsbury,Sydney - South West,10945,"$41,893 ",12928,"$53,731 ",47812
+NSW,2176,Edensor Park,Sydney - South West,10945,"$41,393 ",12928,"$53,631 ",47512
+NSW,2176,Greenfield Park,Sydney - South West,10945,"$40,993 ",12928,"$53,431 ",47212
+NSW,2176,Prairiewood,Sydney - South West,10945,"$41,993 ",12928,"$53,831 ",47912
+NSW,2176,St Johns Park,Sydney - South West,10945,"$41,323 ",12928,"$52,931 ",47127
+NSW,2176,Wakeley,Sydney - South West,10945,"$39,993 ",12928,"$51,231 ",45612
+NSW,2177,Bonnyrigg Heights,Sydney - South West,3274,"$38,592 ",4034,"$51,163 ",44878
+NSW,2177,Bonnyrigg,Sydney - South West,3274,"$38,792 ",4034,"$50,163 ",44478
+NSW,2178,Kemps Creek,Sydney - South West,872,"$48,917 ",1087,"$60,297 ",54607
+NSW,2179,Leppington,Sydney - South West,1003,"$44,391 ",1306,"$54,524 ",49458
+NSW,2190,Bankstown East,Sydney - Inner South West,4421,"$39,607 ",6082,"$48,210 ",43909
+NSW,2190,Mount Lewis,Sydney - Inner South West,4421,"$39,567 ",6082,"$49,210 ",44389
+NSW,2190,Greenacre,Sydney - Inner South West,4421,"$39,407 ",6082,"$47,210 ",43309
+NSW,2191,Belfield,Sydney - Inner South West,1480,"$43,662 ",1561,"$55,902 ",49782
+NSW,2192,Belmore,Sydney - Inner South West,2854,"$39,469 ",3562,"$46,882 ",43176
+NSW,2193,Ashbury,Sydney - Inner South West,4027,"$50,501 ",4223,"$62,244 ",56373
+NSW,2193,Hurlstone Park,Sydney - Inner South West,4027,"$49,501 ",4223,"$60,244 ",54873
+NSW,2193,Canterbury,Sydney - Inner South West,4027,"$49,501 ",4223,"$60,244 ",54873
+NSW,2194,Campsie,Sydney - Inner South West,5313,"$36,162 ",6672,"$41,857 ",39010
+NSW,2195,Wiley Park,Sydney - Inner South West,3867,"$34,534 ",7411,"$39,494 ",37014
+NSW,2195,Lakemba,Sydney - Inner South West,3867,"$34,234 ",7411,"$38,494 ",36364
+NSW,2196,Roselands,Sydney - Inner South West,6091,"$38,997 ",8238,"$45,073 ",42035
+NSW,2196,Punchbowl,Sydney - Inner South West,6091,"$38,597 ",8238,"$46,073 ",42335
+NSW,2197,Bass Hill,Sydney - Inner South West,1738,"$39,144 ",2222,"$49,865 ",44505
+NSW,2198,Georges Hall,Sydney - Inner South West,2085,"$41,681 ",2352,"$57,506 ",49594
+NSW,2199,Yagoona,Sydney - Inner South West,3255,"$38,880 ",4258,"$48,407 ",43644
+NSW,2200,Bankstown Aerodrome,Sydney - Inner South West,8082,"$39,432 ",10482,"$48,179 ",43806
+NSW,2200,Condell Park,Sydney - Inner South West,8082,"$38,432 ",10482,"$47,179 ",42806
+NSW,2200,Bankstown,Sydney - Inner South West,8082,"$38,432 ",10482,"$47,179 ",42806
+NSW,2203,Dulwich Hill,Sydney - Inner West,4164,"$57,538 ",3921,"$66,658 ",62098
+NSW,2204,Marrickville,Sydney - City and Inner South,7114,"$53,318 ",7429,"$62,488 ",57903
+NSW,2205,Turrella,Sydney - Inner South West,3963,"$47,318 ",4805,"$57,815 ",52567
+NSW,2205,Wolli Creek,Sydney - Inner South West,3963,"$46,318 ",4805,"$55,815 ",51067
+NSW,2205,Arncliffe,Sydney - Inner South West,3963,"$46,318 ",4805,"$55,815 ",51067
+NSW,2206,Clemton Park,Sydney - Inner South West,5193,"$51,260 ",5491,"$67,351 ",59306
+NSW,2206,Earlwood,Sydney - Inner South West,5193,"$50,260 ",5491,"$68,351 ",59306
+NSW,2207,Bardwell Park,Sydney - Inner South West,7238,"$45,858 ",7703,"$59,647 ",52753
+NSW,2207,Bardwell Valley,Sydney - Inner South West,7238,"$46,558 ",7703,"$58,547 ",52553
+NSW,2207,Bexley North,Sydney - Inner South West,7238,"$45,858 ",7703,"$55,647 ",50753
+NSW,2207,Bexley,Sydney - Inner South West,7238,"$45,858 ",7703,"$57,447 ",51653
+NSW,2208,Kingsgrove,Sydney - Inner South West,3319,"$44,752 ",3601,"$58,888 ",51820
+NSW,2209,Narwee,Sydney - Inner South West,4205,"$41,120 ",4514,"$53,384 ",47252
+NSW,2209,Beverly Hills,Sydney - Inner South West,4205,"$42,120 ",4514,"$54,384 ",48252
+NSW,2210,Lugarno,Sydney - Inner South West,7471,"$45,586 ",8152,"$61,477 ",53532
+NSW,2210,Peakhurst,Sydney - Inner South West,7471,"$45,486 ",8152,"$60,577 ",53032
+NSW,2210,Peakhurst Heights,Sydney - Inner South West,7471,"$45,886 ",8152,"$60,377 ",53132
+NSW,2210,Riverwood,Sydney - Inner South West,7471,"$45,686 ",8152,"$60,577 ",53132
+NSW,2211,Padstow Heights,Sydney - Inner South West,4524,"$44,909 ",4807,"$58,083 ",51496
+NSW,2211,Padstow,Sydney - Inner South West,4524,"$43,909 ",4807,"$59,083 ",51496
+NSW,2212,Revesby Heights,Sydney - Inner South West,3907,"$45,486 ",4219,"$58,144 ",51815
+NSW,2212,Revesby,Sydney - Inner South West,3907,"$44,486 ",4219,"$57,144 ",50815
+NSW,2213,East Hills,Sydney - Inner South West,5711,"$44,750 ",6069,"$67,585 ",56168
+NSW,2213,Picnic Point,Sydney - Inner South West,5711,"$45,850 ",6069,"$66,085 ",55968
+NSW,2213,Panania,Sydney - Inner South West,5711,"$45,850 ",6069,"$66,085 ",55968
+NSW,2214,Milperra,Sydney - Inner South West,1117,"$44,183 ",1253,"$61,809 ",52996
+NSW,2216,Banksia,Sydney - Inner South West,7436,"$42,774 ",8919,"$52,318 ",47546
+NSW,2216,Brighton-le-Sands,Sydney - Inner South West,7436,"$41,774 ",8919,"$53,318 ",47546
+NSW,2216,Kyeemagh,Sydney - Inner South West,7436,"$43,774 ",8919,"$51,318 ",47546
+NSW,2216,Rockdale,Sydney - Inner South West,7436,"$43,774 ",8919,"$53,318 ",48546
+NSW,2217,Beverley Park,Sydney - Inner South West,7510,"$46,950 ",8033,"$59,183 ",53067
+NSW,2217,Kogarah Bay,Sydney - Inner South West,7510,"$47,950 ",8033,"$58,483 ",53217
+NSW,2217,Monterey,Sydney - Inner South West,7510,"$46,950 ",8033,"$57,983 ",52467
+NSW,2217,Ramsgate,Sydney - Inner South West,7510,"$46,650 ",8033,"$59,183 ",52917
+NSW,2217,Ramsgate Beach,Sydney - Inner South West,7510,"$47,350 ",8033,"$58,283 ",52817
+NSW,2217,Kogarah,Sydney - Inner South West,7510,"$46,950 ",8033,"$57,883 ",52417
+NSW,2218,Allawah,Sydney - Inner South West,4452,"$44,126 ",4882,"$54,521 ",49324
+NSW,2218,Carlton,Sydney - Inner South West,4452,"$43,126 ",4882,"$53,521 ",48324
+NSW,2219,Sans Souci,Sydney - Inner South West,3809,"$53,201 ",3738,"$52,429 ",52815
+NSW,2219,Dolls Point,Sydney - Inner South West,7436,"$42,774 ",8919,"$52,318 ",47546
+NSW,2219,Sandringham ,Sydney - Inner South West,7436,"$41,774 ",8919,"$53,318 ",47546
+NSW,2220,Hurstville Grove,Sydney - Inner South West,8305,"$39,946 ",9021,"$50,169 ",45058
+NSW,2220,Hurstville,Sydney - Inner South West,8305,"$40,666 ",9021,"$50,969 ",45818
+NSW,2221,Carss Park,Sydney - Inner South West,4893,"$55,481 ",4990,"$81,502 ",68492
+NSW,2221,Connells Point,Sydney - Inner South West,4893,"$53,481 ",4990,"$79,502 ",66492
+NSW,2221,Kyle Bay,Sydney - Inner South West,4893,"$52,481 ",4990,"$80,502 ",66492
+NSW,2221,South Hurstville,Sydney - Inner South West,4893,"$51,681 ",4990,"$80,992 ",66337
+NSW,2221,Blakehurst,Sydney - Inner South West,4893,"$53,491 ",4990,"$82,502 ",67997
+NSW,2222,Penshurst,Sydney - Inner South West,3633,"$43,616 ",3658,"$60,481 ",52049
+NSW,2223,Mortdale,Sydney - Inner South West,8305,"$40,666 ",9021,"$50,969 ",45818
+NSW,2223,Oatley,Sydney - Inner South West,6476,"$51,416 ",6496,"$76,832 ",64124
+NSW,2224,Kangaroo Point ,Sydney - Sutherland,4252,"$59,796 ",4241,"$77,467 ",68632
+NSW,2224,Sylvania Waters,Sydney - Sutherland,4252,"$59,796 ",4241,"$77,467 ",68632
+NSW,2224,Sylvania,Sydney - Sutherland,4252,"$49,796 ",4241,"$77,467 ",63632
+NSW,2225,Oyster Bay,Sydney - Sutherland,1663,"$51,738 ",1715,"$92,009 ",71874
+NSW,2226,Bonnet Bay,Sydney - Sutherland,3695,"$48,121 ",3845,"$78,115 ",63118
+NSW,2226,Como ,Sydney - Sutherland,3695,"$59,121 ",3845,"$77,115 ",68118
+NSW,2226,Jannali,Sydney - Sutherland,3695,"$49,121 ",3845,"$79,115 ",64118
+NSW,2227,Gymea,Sydney - Sutherland,4440,"$48,888 ",4313,"$77,758 ",63323
+NSW,2228,Yowie Bay,Sydney - Sutherland,5452,"$49,558 ",5452,"$72,515 ",61037
+NSW,2228,Miranda,Sydney - Sutherland,5452,"$47,558 ",5452,"$73,515 ",60537
+NSW,2229,Caringbah,Sydney - Sutherland,8938,"$52,901 ",8991,"$93,147 ",73024
+NSW,2229,Caringbah South,Sydney - Sutherland,8938,"$50,901 ",8991,"$94,147 ",72524
+NSW,2230,Bundeena,Sydney - Sutherland,9492,"$60,088 ",9780,"$101,761 ",80925
+NSW,2230,Burraneer,Sydney - Sutherland,9492,"$60,088 ",9780,"$102,961 ",81525
+NSW,2230,Maianbar,Sydney - Sutherland,9492,"$59,088 ",9780,"$100,761 ",79925
+NSW,2230,Woolooware,Sydney - Sutherland,9492,"$59,988 ",9780,"$101,561 ",80775
+NSW,2230,Cronulla,Sydney - Sutherland,9492,"$59,588 ",9780,"$99,761 ",79675
+NSW,2231,Kurnell,Sydney - Sutherland,614,"$41,835 ",704,"$67,430 ",54633
+NSW,2232,Grays Point,Sydney - Sutherland,9679,"$48,716 ",9909,"$69,985 ",59351
+NSW,2232,Kareela,Sydney - Sutherland,9679,"$44,516 ",9909,"$69,985 ",57251
+NSW,2232,Kirrawee,Sydney - Sutherland,9679,"$48,616 ",9909,"$67,985 ",58301
+NSW,2232,Loftus,Sydney - Sutherland,9679,"$47,916 ",9909,"$65,985 ",56951
+NSW,2232,Woronora,Sydney - Sutherland,9679,"$44,516 ",9909,"$66,985 ",55751
+NSW,2232,Sutherland,Sydney - Sutherland,9679,"$47,716 ",9909,"$69,985 ",58851
+NSW,2233,Heathcote ,Sydney - Sutherland,8815,"$43,582 ",9178,"$66,776 ",55179
+NSW,2233,Royal National Park,Sydney - Sutherland,8815,"$42,982 ",9178,"$67,776 ",55379
+NSW,2233,Waterfall,Sydney - Sutherland,8815,"$44,582 ",9178,"$68,576 ",56579
+NSW,2233,Woronora Heights,Sydney - Sutherland,8815,"$42,882 ",9178,"$66,876 ",54879
+NSW,2233,Yarrawarrah,Sydney - Sutherland,8815,"$41,992 ",9178,"$66,456 ",54224
+NSW,2233,Engadine,Sydney - Sutherland,8815,"$43,782 ",9178,"$68,776 ",56279
+NSW,2234,Alfords Point,Hunter Valley exc Newcastle,5046,"$39,872 ",6421,"$90,232 ",65052
+NSW,2234,Bangor ,Hunter Valley exc Newcastle,5046,"$40,872 ",6421,"$89,232 ",65052
+NSW,2234,Barden Ridge,Hunter Valley exc Newcastle,5046,"$41,572 ",6421,"$88,232 ",64902
+NSW,2234,Illawong,Hunter Valley exc Newcastle,5046,"$45,000 ",6421,"$90,232 ",67616
+NSW,2234,Lucas Heights,Hunter Valley exc Newcastle,5046,"$39,872 ",6421,"$92,232 ",66052
+NSW,2330,Bridgman,Hunter Valley exc Newcastle,5046,"$49,872 ",6421,"$92,632 ",71252
+NSW,2330,Broke ,Hunter Valley exc Newcastle,5046,"$39,872 ",6421,"$92,232 ",66052
+NSW,2330,Bulga ,Hunter Valley exc Newcastle,5046,"$36,872 ",6421,"$91,932 ",64402
+NSW,2330,Camberwell ,Hunter Valley exc Newcastle,5046,"$40,872 ",6421,"$92,632 ",66752
+NSW,2330,Darlington,Hunter Valley exc Newcastle,5046,"$39,872 ",6421,"$92,232 ",66052
+NSW,2330,Glendon Brook,Hunter Valley exc Newcastle,5046,"$39,672 ",6421,"$87,232 ",63452
+NSW,2330,Glenridding,Hunter Valley exc Newcastle,5046,"$39,872 ",6421,"$89,932 ",64902
+NSW,2330,Hunterview,Hunter Valley exc Newcastle,5046,"$39,872 ",6421,"$89,232 ",64552
+NSW,2330,Jerrys Plains,Hunter Valley exc Newcastle,5046,"$39,872 ",6421,"$90,232 ",65052
+NSW,2330,Maison Dieu,Hunter Valley exc Newcastle,5046,"$39,872 ",6421,"$86,232 ",63052
+NSW,2330,McDougalls Hill,Hunter Valley exc Newcastle,5046,"$38,872 ",6421,"$92,232 ",65552
+NSW,2330,Mitchells Flat,Hunter Valley exc Newcastle,5046,"$37,372 ",6421,"$94,232 ",65802
+NSW,2330,Mount Olive ,Hunter Valley exc Newcastle,5046,"$36,872 ",6421,"$92,932 ",64902
+NSW,2330,Mount Thorley,Hunter Valley exc Newcastle,5046,"$42,872 ",6421,"$92,232 ",67552
+NSW,2330,Putty,Hunter Valley exc Newcastle,5046,"$41,472 ",6421,"$92,232 ",66852
+NSW,2330,Redbournberry,Hunter Valley exc Newcastle,5046,"$39,872 ",6421,"$92,232 ",66052
+NSW,2330,Reedy Creek ,Hunter Valley exc Newcastle,5046,"$45,872 ",6421,"$92,232 ",69052
+NSW,2330,Sedgefield,Hunter Valley exc Newcastle,5046,"$43,772 ",6421,"$92,232 ",68002
+NSW,2330,Singleton Heights,Hunter Valley exc Newcastle,5046,"$39,872 ",6421,"$87,232 ",63552
+NSW,2330,Wattle Ponds,Hunter Valley exc Newcastle,5046,"$39,972 ",6421,"$92,232 ",66102
+NSW,2330,Whittingham,Hunter Valley exc Newcastle,5046,"$43,872 ",6421,"$90,432 ",67152
+NSW,2330,Singleton,Hunter Valley exc Newcastle,5046,"$39,872 ",6421,"$91,232 ",65552
+NSW,2430,Black Head,Mid North Coast,7464,"$36,288 ",7827,"$46,620 ",41454
+NSW,2430,Bootawa,Mid North Coast,7464,"$37,288 ",7827,"$46,920 ",42104
+NSW,2430,Cundletown,Mid North Coast,7464,"$35,288 ",7827,"$44,620 ",39954
+NSW,2430,Diamond Beach,Mid North Coast,7464,"$34,288 ",7827,"$42,620 ",38454
+NSW,2430,Dumaresq Island,Mid North Coast,7464,"$36,288 ",7827,"$47,620 ",41954
+NSW,2430,Failford,Mid North Coast,7464,"$36,568 ",7827,"$44,620 ",40594
+NSW,2430,Glenthorne,Mid North Coast,7464,"$36,288 ",7827,"$49,620 ",42954
+NSW,2430,Hallidays Point,Mid North Coast,7464,"$35,988 ",7827,"$46,620 ",41304
+NSW,2430,Hillville,Mid North Coast,7464,"$34,988 ",7827,"$47,620 ",41304
+NSW,2430,Koorainghat,Mid North Coast,7464,"$36,788 ",7827,"$43,620 ",40204
+NSW,2430,Kundle Kundle,Mid North Coast,7464,"$36,588 ",7827,"$46,620 ",41604
+NSW,2430,Lansdowne ,Mid North Coast,7464,"$36,288 ",7827,"$45,620 ",40954
+NSW,2430,Lansdowne Forest,Mid North Coast,7464,"$37,288 ",7827,"$42,620 ",39954
+NSW,2430,Manning Point,Mid North Coast,7464,"$38,288 ",7827,"$44,620 ",41454
+NSW,2430,Mitchells Island,Mid North Coast,7464,"$31,288 ",7827,"$46,620 ",38954
+NSW,2430,Moto,Mid North Coast,7464,"$36,488 ",7827,"$46,720 ",41604
+NSW,2430,Old Bar,Mid North Coast,7464,"$36,888 ",7827,"$46,320 ",41604
+NSW,2430,Oxley Island,Mid North Coast,7464,"$35,888 ",7827,"$46,620 ",41254
+NSW,2430,Pampoolah,Mid North Coast,7464,"$36,288 ",7827,"$44,220 ",40254
+NSW,2430,Possum Brush,Mid North Coast,7464,"$35,988 ",7827,"$44,620 ",40304
+NSW,2430,Purfleet,Mid North Coast,7464,"$33,988 ",7827,"$49,620 ",41804
+NSW,2430,Rainbow Flat,Mid North Coast,7464,"$34,788 ",7827,"$47,620 ",41204
+NSW,2430,Red Head,Mid North Coast,7464,"$35,888 ",7827,"$42,620 ",39254
+NSW,2430,Tallwoods Village,Mid North Coast,7464,"$33,988 ",7827,"$43,620 ",38804
+NSW,2430,Taree South,Mid North Coast,7464,"$37,288 ",7827,"$44,920 ",41104
+NSW,2430,Tinonee,Mid North Coast,7464,"$38,288 ",7827,"$44,620 ",41454
+NSW,2430,Upper Lansdowne,Mid North Coast,7464,"$34,288 ",7827,"$48,620 ",41454
+NSW,2430,Wallabi Point,Mid North Coast,7464,"$32,288 ",7827,"$47,620 ",39954
+NSW,2430,Taree,Mid North Coast,7464,"$35,288 ",7827,"$45,620 ",40454
+NSW,2519,Fernhill,Illawarra,4299,"$42,138 ",4644,"$65,903 ",54021
+NSW,2519,Mount Ousley,Illawarra,4299,"$43,138 ",4644,"$65,903 ",54521
+NSW,2519,Mount Pleasant ,Illawarra,4299,"$42,938 ",4644,"$64,903 ",53921
+NSW,2519,North Wollongong,Illawarra,4299,"$41,938 ",4644,"$66,903 ",54421
+NSW,2519,Fairy Meadow,Illawarra,4299,"$41,939 ",4644,"$62,903 ",52421
+NSW,2536,Batehaven,Capital Region,4368,"$36,019 ",4379,"$46,513 ",41266
+NSW,2536,Batemans Bay,Capital Region,4368,"$37,019 ",4379,"$47,513 ",42266
+NSW,2536,Denhams Beach,Capital Region,4368,"$35,719 ",4379,"$44,513 ",40116
+NSW,2536,Deua River Valley,Capital Region,4368,"$33,019 ",4379,"$48,513 ",40766
+NSW,2536,Durras North,Capital Region,4368,"$37,619 ",4379,"$42,513 ",40066
+NSW,2536,Jeremadra,Capital Region,4368,"$34,619 ",4379,"$45,513 ",40066
+NSW,2536,Lilli Pilli ,Capital Region,4368,"$39,819 ",4379,"$47,613 ",43716
+NSW,2536,Long Beach,Capital Region,4368,"$33,919 ",4379,"$49,513 ",41716
+NSW,2536,Maloneys Beach,Capital Region,4368,"$39,819 ",4379,"$44,313 ",42066
+NSW,2536,Malua Bay,Capital Region,4368,"$40,019 ",4379,"$47,513 ",43766
+NSW,2536,Mogo ,Capital Region,4368,"$38,819 ",4379,"$48,713 ",43766
+NSW,2536,Nelligen,Capital Region,4368,"$34,919 ",4379,"$42,513 ",38716
+NSW,2536,North Batemans Bay,Capital Region,4368,"$34,819 ",4379,"$45,413 ",40116
+NSW,2536,Rosedale ,Capital Region,4368,"$37,819 ",4379,"$46,513 ",42166
+NSW,2536,South Durras,Capital Region,4368,"$39,619 ",4379,"$45,513 ",42566
+NSW,2536,Sunshine Bay,Capital Region,4368,"$35,619 ",4379,"$46,513 ",41066
+NSW,2536,Surf Beach ,Capital Region,4368,"$36,019 ",4379,"$43,513 ",39766
+NSW,2536,Surfside,Capital Region,4368,"$36,919 ",4379,"$46,913 ",41916
+NSW,2536,Catalina,Capital Region,4368,"$36,019 ",4379,"$46,513 ",41266
+NSW,2546,Akolele,Capital Region,2315,"$31,553 ",2337,"$42,260 ",36907
+NSW,2546,Bermagui,Capital Region,2315,"$32,553 ",2337,"$41,260 ",36907
+NSW,2546,Central Tilba,Capital Region,2315,"$33,553 ",2337,"$40,260 ",36907
+NSW,2546,Dalmeny,Capital Region,2315,"$33,453 ",2337,"$42,260 ",37857
+NSW,2546,Dignams Creek,Capital Region,2315,"$33,553 ",2337,"$43,260 ",38407
+NSW,2546,Kianga ,Capital Region,2315,"$36,553 ",2337,"$42,960 ",39757
+NSW,2546,Mystery Bay,Capital Region,2315,"$34,553 ",2337,"$45,260 ",39907
+NSW,2546,North Narooma,Capital Region,2315,"$33,553 ",2337,"$44,260 ",38907
+NSW,2546,Wallaga Lake,Capital Region,2315,"$39,553 ",2337,"$46,260 ",42907
+NSW,2546,Narooma,Capital Region,2315,"$33,553 ",2337,"$42,260 ",37907
+NSW,2558,Eschol Park,Sydney - Outer South West,2865,"$42,663 ",3304,"$57,101 ",49882
+NSW,2558,Kearns,Sydney - Outer South West,2865,"$40,663 ",3304,"$55,101 ",47882
+NSW,2558,Eagle Vale,Sydney - Outer South West,2865,"$40,663 ",3304,"$55,101 ",47882
+NSW,2559,Blairmount,Sydney - Outer South West,360,"$32,935 ",473,"$44,432 ",38684
+NSW,2559,Gregory Hills,Sydney - Outer South West,360,"$32,635 ",473,"$43,432 ",38034
+NSW,2559,Claymore,Sydney - Outer South West,360,"$32,635 ",473,"$43,432 ",38034
+NSW,2560,Airds,Sydney - Outer South West,17574,"$40,900 ",20321,"$57,020 ",48960
+NSW,2560,Ambarvale,Sydney - Outer South West,17574,"$40,300 ",20321,"$55,020 ",47660
+NSW,2560,Appin ,Sydney - Outer South West,17574,"$42,660 ",20321,"$56,420 ",49540
+NSW,2560,Blair Athol ,Sydney - Outer South West,17574,"$41,650 ",20321,"$57,620 ",49635
+NSW,2560,Bradbury ,Sydney - Outer South West,17574,"$39,600 ",20321,"$55,920 ",47760
+NSW,2560,Englorie Park,Sydney - Outer South West,17574,"$38,795 ",20321,"$54,690 ",46743
+NSW,2560,Gilead,Sydney - Outer South West,17574,"$41,600 ",20321,"$54,920 ",48260
+NSW,2560,Glen Alpine,Sydney - Outer South West,17574,"$42,500 ",20321,"$56,520 ",49510
+NSW,2560,Kentlyn,Sydney - Outer South West,17574,"$42,600 ",20321,"$56,920 ",49760
+NSW,2560,Leumeah,Sydney - Outer South West,17574,"$37,780 ",20321,"$56,060 ",46920
+NSW,2560,Rosemeadow,Sydney - Outer South West,17574,"$41,600 ",20321,"$55,020 ",48310
+NSW,2560,Ruse,Sydney - Outer South West,17574,"$43,600 ",20321,"$54,020 ",48810
+NSW,2560,St Helens Park,Sydney - Outer South West,17574,"$36,900 ",20321,"$53,020 ",44960
+NSW,2560,Wedderburn ,Sydney - Outer South West,17574,"$41,300 ",20321,"$55,820 ",48560
+NSW,2560,Woodbine ,Sydney - Outer South West,17574,"$40,050 ",20321,"$54,920 ",47485
+NSW,2560,Campbelltown,Sydney - Outer South West,17574,"$40,600 ",20321,"$53,990 ",47295
+NSW,2563,Menangle Park,Sydney - Outer South West,76,"$45,875 ",89,"$59,314 ",52595
+NSW,2564,Long Point,Sydney - Outer South West,2803,"$38,446 ",3545,"$47,836 ",43141
+NSW,2564,Macquarie Fields,Sydney - Outer South West,2803,"$37,446 ",3545,"$49,836 ",43641
+NSW,2565,Denham Court,Sydney - Outer South West,4558,"$45,264 ",5437,"$61,708 ",53486
+NSW,2565,Macquarie Links,Sydney - Outer South West,4558,"$43,264 ",5437,"$59,708 ",51486
+NSW,2565,Ingleburn,Sydney - Outer South West,4558,"$43,264 ",5437,"$59,708 ",51486
+NSW,2566,Minto Heights,Sydney - Outer South West,6196,"$40,088 ",7358,"$54,618 ",47353
+NSW,2566,Raby,Sydney - Outer South West,6196,"$41,088 ",7358,"$54,618 ",47853
+NSW,2566,St Andrews ,Sydney - Outer South West,6196,"$39,988 ",7358,"$55,618 ",47803
+NSW,2566,Varroville,Sydney - Outer South West,6196,"$40,128 ",7358,"$55,518 ",47823
+NSW,2566,Minto,Sydney - Outer South West,6196,"$40,045 ",7358,"$54,918 ",47482
+NSW,2567,Currans Hill,Sydney - Outer South West,10006,"$44,646 ",10624,"$68,863 ",56755
+NSW,2567,Mount Annan,Sydney - Outer South West,321,"$46,117 ",340,"$66,491 ",56304
+NSW,2567,Narellan,Sydney - Outer South West,389,"$43,065 ",449,"$66,977 ",55021
+NSW,2567,Narellan Vale,Sydney - Outer South West,6196,"$40,088 ",7358,"$54,618 ",47353
+NSW,2567,Smeaton Grange,Sydney - Outer South West,6196,"$41,088 ",7358,"$54,618 ",47853
+NSW,2567,Harrington Park,Sydney - Outer South West,6196,"$49,988 ",7358,"$55,618 ",52803
+NSW,2568,Menangle,Sydney - Outer South West,6196,"$40,128 ",7358,"$55,518 ",47823
+NSW,2569,Douglas Park,Sydney - Outer South West,389,"$43,065 ",449,"$66,977 ",55021
+NSW,2570,Belimbla Park,Sydney - Outer West and Blue Mountains,8035,"$46,925 ",8426,"$70,571 ",58748
+NSW,2570,Brownlow Hill,Sydney - Outer West and Blue Mountains,8035,"$47,925 ",8426,"$71,571 ",59748
+NSW,2570,Camden,Sydney - Outer West and Blue Mountains,8035,"$48,925 ",8426,"$66,571 ",57748
+NSW,2570,Camden Park ,Sydney - Outer West and Blue Mountains,8035,"$44,925 ",8426,"$67,571 ",56248
+NSW,2570,Camden South,Sydney - Outer West and Blue Mountains,8035,"$45,425 ",8426,"$71,571 ",58498
+NSW,2570,Cawdor ,Sydney - Outer West and Blue Mountains,8035,"$45,925 ",8426,"$72,571 ",59248
+NSW,2570,Cobbitty,Sydney - Outer West and Blue Mountains,8035,"$48,725 ",8426,"$70,771 ",59748
+NSW,2570,Elderslie ,Sydney - Outer West and Blue Mountains,8035,"$45,995 ",8426,"$70,571 ",58283
+NSW,2570,Ellis Lane,Sydney - Outer West and Blue Mountains,8035,"$44,925 ",8426,"$68,571 ",56748
+NSW,2570,Grasmere,Sydney - Outer West and Blue Mountains,8035,"$47,925 ",8426,"$69,971 ",58948
+NSW,2570,Kirkham,Sydney - Outer West and Blue Mountains,8035,"$48,725 ",8426,"$71,571 ",60148
+NSW,2570,Mount Hunter,Sydney - Outer West and Blue Mountains,8035,"$43,525 ",8426,"$72,571 ",58048
+NSW,2570,Oakdale ,Sydney - Outer West and Blue Mountains,8035,"$45,875 ",8426,"$70,571 ",58223
+NSW,2570,Orangeville,Sydney - Outer West and Blue Mountains,8035,"$44,925 ",8426,"$67,571 ",56248
+NSW,2570,Spring Farm ,Sydney - Outer West and Blue Mountains,8035,"$48,925 ",8426,"$75,681 ",62303
+NSW,2570,The Oaks,Sydney - Outer West and Blue Mountains,8035,"$44,525 ",8426,"$69,971 ",57248
+NSW,2570,Theresa Park,Sydney - Outer West and Blue Mountains,8035,"$47,625 ",8426,"$70,571 ",59098
+NSW,2570,Werombi,Sydney - Outer West and Blue Mountains,8035,"$46,425 ",8426,"$70,571 ",58498
+NSW,2745,Greendale ,Sydney - Outer West and Blue Mountains,8035,"$44,925 ",8426,"$69,571 ",57248
+NSW,2745,Luddenham,Sydney - Outer West and Blue Mountains,8035,"$46,925 ",8426,"$68,571 ",57748
+NSW,2745,Mulgoa,Sydney - Outer West and Blue Mountains,8035,"$46,925 ",8426,"$67,871 ",57398
+NSW,2745,Regentville,Sydney - Outer West and Blue Mountains,8035,"$46,425 ",8426,"$70,571 ",58498
+NSW,2745,Wallacia,Sydney - Outer West and Blue Mountains,8035,"$44,925 ",8426,"$65,771 ",55348
+NSW,2745,Glenmore Park,Sydney - Outer West and Blue Mountains,8035,"$47,925 ",8426,"$70,571 ",59248
+NSW,2747,Cambridge Gardens,Sydney - Outer West and Blue Mountains,9449,"$41,643 ",10702,"$57,420 ",49532
+NSW,2747,Cambridge Park,Sydney - Outer West and Blue Mountains,672,"$47,552 ",775,"$68,783 ",58168
+NSW,2747,Claremont Meadows,Sydney - Outer West and Blue Mountains,8035,"$47,625 ",8426,"$70,571 ",59098
+NSW,2747,Llandilo,Sydney - Outer West and Blue Mountains,8035,"$46,425 ",8426,"$70,571 ",58498
+NSW,2747,Shanes Park,Sydney - Outer West and Blue Mountains,8035,"$44,925 ",8426,"$69,571 ",57248
+NSW,2747,Werrington,Sydney - Outer West and Blue Mountains,8035,"$46,925 ",8426,"$68,571 ",57748
+NSW,2747,Werrington County,Sydney - Outer West and Blue Mountains,4491,"$44,243 ",4894,"$64,402 ",54323
+NSW,2747,Werrington Downs,Sydney - Outer West and Blue Mountains,4491,"$44,243 ",4894,"$64,402 ",54323
+NSW,2747,Kingswood,Sydney - Outer West and Blue Mountains,9449,"$41,643 ",10702,"$57,420 ",49532
+NSW,2748,Orchard Hills,Sydney - Outer West and Blue Mountains,672,"$47,552 ",775,"$68,783 ",58168
+NSW,2749,Castlereagh,Sydney - Outer West and Blue Mountains,9449,"$41,643 ",10702,"$57,420 ",49532
+NSW,2749,Cranebrook,Sydney - Outer West and Blue Mountains,4491,"$44,243 ",4894,"$64,402 ",54323
+NSW,2750,Emu Heights ,Sydney - Outer West and Blue Mountains,11345,"$43,582 ",12430,"$61,963 ",52773
+NSW,2750,Emu Plains,Sydney - Outer West and Blue Mountains,4491,"$44,243 ",4894,"$64,402 ",54323
+NSW,2750,Jamisontown,Sydney - Outer West and Blue Mountains,1325,"$43,600 ",1580,"$64,898 ",54249
+NSW,2750,Leonay,Sydney - Outer West and Blue Mountains,4491,"$44,243 ",4894,"$64,402 ",54323
+NSW,2750,Penrith,Sydney - Outer West and Blue Mountains,11345,"$43,582 ",12430,"$61,963 ",52773
+NSW,2752,Warragamba,Sydney - Outer West and Blue Mountains,1325,"$43,600 ",1580,"$64,898 ",54249
+NSW,2752,Silverdale,Sydney - Outer West and Blue Mountains,1325,"$43,600 ",1580,"$64,898 ",54249
+NSW,2753,Agnes Banks,Sydney - Outer West and Blue Mountains,8035,"$46,425 ",8426,"$70,571 ",58498
+NSW,2753,Bowen Mountain,Sydney - Outer West and Blue Mountains,8035,"$44,925 ",8426,"$69,571 ",57248
+NSW,2753,Grose Vale,Sydney - Outer West and Blue Mountains,8035,"$46,925 ",8426,"$68,571 ",57748
+NSW,2753,Grose Wold,Sydney - Outer West and Blue Mountains,4491,"$44,243 ",4894,"$64,402 ",54323
+NSW,2753,Hobartville ,Sydney - Outer West and Blue Mountains,4491,"$46,243 ",4894,"$62,402 ",54323
+NSW,2753,Londonderry ,Sydney - Outer West and Blue Mountains,1325,"$43,200 ",1580,"$60,898 ",52049
+NSW,2753,Richmond Lowlands,Sydney - Outer West and Blue Mountains,4491,"$44,243 ",4894,"$64,402 ",54323
+NSW,2753,Yarramundi,Sydney - Outer West and Blue Mountains,4431,"$43,979 ",4999,"$60,126 ",52053
+NSW,2753,Richmond,Sydney - Outer West and Blue Mountains,4431,"$43,979 ",4999,"$60,126 ",52053
+NSW,2756,Bligh Park,Sydney - Outer West and Blue Mountains,9068,"$42,751 ",10148,"$61,653 ",52202
+NSW,2756,Cattai,Sydney - Outer West and Blue Mountains,277,"$45,719 ",306,"$59,083 ",52401
+NSW,2756,Clarendon ,Sydney - Outer West and Blue Mountains,2537,"$46,557 ",2763,"$64,549 ",55553
+NSW,2756,Colo Heights,Sydney - Outer West and Blue Mountains,7456,"$42,110 ",8455,"$59,695 ",50903
+NSW,2756,Cumberland Reach,Sydney - Outer West and Blue Mountains,4431,"$44,979 ",4999,"$61,126 ",53053
+NSW,2756,Ebenezer ,Sydney - Outer West and Blue Mountains,4431,"$43,979 ",4999,"$60,126 ",52053
+NSW,2756,Freemans Reach,Sydney - Outer West and Blue Mountains,9068,"$42,751 ",10148,"$61,653 ",52202
+NSW,2756,Glossodia,Sydney - Outer West and Blue Mountains,277,"$45,719 ",306,"$55,083 ",50401
+NSW,2756,Lower Portland,Sydney - Outer West and Blue Mountains,2537,"$46,557 ",2763,"$64,549 ",55553
+NSW,2756,Maroota,Sydney - Outer West and Blue Mountains,4431,"$43,979 ",4999,"$60,126 ",52053
+NSW,2756,McGraths Hill,Sydney - Outer West and Blue Mountains,4431,"$43,979 ",4999,"$60,126 ",52053
+NSW,2756,Mountain Lagoon,Sydney - Outer West and Blue Mountains,9068,"$42,751 ",10148,"$61,653 ",52202
+NSW,2756,Pitt Town,Sydney - Outer West and Blue Mountains,277,"$45,719 ",306,"$59,083 ",52401
+NSW,2756,Sackville,Sydney - Outer West and Blue Mountains,7456,"$42,110 ",8455,"$59,695 ",50903
+NSW,2756,Sackville North,Sydney - Outer West and Blue Mountains,4431,"$43,979 ",4999,"$60,126 ",52053
+NSW,2756,South Maroota,Sydney - Outer West and Blue Mountains,9068,"$42,751 ",10148,"$61,653 ",52202
+NSW,2756,Wilberforce ,Sydney - Outer West and Blue Mountains,277,"$45,719 ",306,"$59,083 ",52401
+NSW,2756,Windsor ,Sydney - Outer West and Blue Mountains,2537,"$46,557 ",2763,"$64,549 ",55553
+NSW,2756,Windsor Downs,Sydney - Outer West and Blue Mountains,7456,"$42,110 ",8455,"$59,695 ",50903
+NSW,2756,South Windsor,Sydney - Outer West and Blue Mountains,9068,"$42,751 ",10148,"$61,653 ",52202
+NSW,2757,Kurmond,Sydney - Baulkham Hills and Hawkesbury,277,"$45,719 ",306,"$55,083 ",50401
+NSW,2758,Kurrajong,Sydney - Baulkham Hills and Hawkesbury,2537,"$46,557 ",2763,"$64,549 ",55553
+NSW,2759,Erskine Park,Sydney - Outer West and Blue Mountains,7456,"$42,110 ",8455,"$59,695 ",50903
+NSW,2759,St Clair,Sydney - Outer West and Blue Mountains,7456,"$42,110 ",8455,"$59,695 ",50903
+NSW,2760,Colyton,Sydney - Outer West and Blue Mountains,7139,"$41,859 ",8362,"$55,566 ",48713
+NSW,2760,North St Marys,Sydney - Outer West and Blue Mountains,1007,"$43,578 ",1156,"$59,768 ",51673
+NSW,2760,Oxley Park,Sydney - Outer West and Blue Mountains,7139,"$41,859 ",8362,"$55,566 ",48713
+NSW,2760,Ropes Crossing,Sydney - Outer West and Blue Mountains,1007,"$43,578 ",1156,"$59,768 ",51673
+NSW,2760,St Marys,Sydney - Outer West and Blue Mountains,9068,"$42,751 ",10148,"$61,653 ",52202
+NSW,2761,Colebee,Sydney - Blacktown,277,"$45,719 ",306,"$55,083 ",50401
+NSW,2761,Dean Park,Sydney - Blacktown,2537,"$46,557 ",2763,"$64,549 ",55553
+NSW,2761,Glendenning,Sydney - Blacktown,3680,"$44,890 ",4339,"$60,285 ",52588
+NSW,2761,Hassall Grove,Sydney - Blacktown,1007,"$43,578 ",1156,"$59,768 ",51673
+NSW,2761,Oakhurst ,Sydney - Blacktown,3505,"$40,947 ",4189,"$54,453 ",47700
+NSW,2761,Plumpton,Sydney - Blacktown,7139,"$41,859 ",8362,"$55,566 ",48713
+NSW,2762,Schofields,Sydney - Blacktown,1007,"$43,578 ",1156,"$59,768 ",51673
+NSW,2763,Acacia Gardens,Sydney - Blacktown,8224,"$45,084 ",9032,"$61,168 ",53126
+NSW,2763,Quakers Hill,Sydney - Blacktown,8224,"$44,084 ",9032,"$62,168 ",53126
+NSW,2765,Berkshire Park,Sydney - Blacktown,9068,"$42,751 ",10148,"$61,653 ",52202
+NSW,2765,Box Hill ,Sydney - Blacktown,277,"$45,719 ",306,"$59,083 ",52401
+NSW,2765,Maraylya,Sydney - Blacktown,2537,"$46,557 ",2763,"$64,549 ",55553
+NSW,2765,Marsden Park,Sydney - Blacktown,8224,"$44,084 ",9032,"$62,168 ",53126
+NSW,2765,Nelson ,Sydney - Blacktown,9068,"$47,751 ",10148,"$61,653 ",54702
+NSW,2765,Oakville,Sydney - Blacktown,277,"$44,719 ",306,"$59,083 ",51901
+NSW,2765,Riverstone,Sydney - Blacktown,2537,"$42,557 ",2763,"$64,549 ",53553
+NSW,2766,Eastern Creek,Sydney - Blacktown,3505,"$43,947 ",4189,"$55,453 ",49700
+NSW,2766,Rooty Hill,Sydney - Blacktown,3505,"$40,947 ",4189,"$54,453 ",47700
+NSW,2767,Woodcroft ,Sydney - Blacktown,3505,"$40,947 ",4189,"$54,453 ",47700
+NSW,2767,Doonside,Sydney - Blacktown,7139,"$41,859 ",8362,"$55,566 ",48713
+NSW,2770,Bidwill ,Sydney - Blacktown,1007,"$43,578 ",1156,"$59,768 ",51673
+NSW,2770,Blackett,Sydney - Blacktown,3505,"$40,947 ",4189,"$54,453 ",47700
+NSW,2770,Dharruk,Sydney - Blacktown,7139,"$41,859 ",8362,"$55,566 ",48713
+NSW,2770,Emerton,Sydney - Blacktown,10851,"$37,417 ",14155,"$47,901 ",42659
+NSW,2770,Hebersham,Sydney - Blacktown,277,"$44,719 ",306,"$59,083 ",51901
+NSW,2770,Lethbridge Park,Sydney - Blacktown,2537,"$42,557 ",2763,"$56,549 ",49553
+NSW,2770,Minchinbury,Sydney - Blacktown,3505,"$40,947 ",4189,"$54,453 ",47700
+NSW,2770,Shalvey,Sydney - Blacktown,7139,"$41,859 ",8362,"$55,566 ",48713
+NSW,2770,Tregear,Sydney - Blacktown,1337,"$45,646 ",1300,"$59,045 ",52346
+NSW,2770,Whalan,Sydney - Blacktown,3505,"$43,947 ",4189,"$55,453 ",49700
+NSW,2770,Willmot,Sydney - Blacktown,3505,"$40,947 ",4189,"$54,453 ",47700
+NSW,2770,Mount Druitt,Sydney - Blacktown,10851,"$37,417 ",14155,"$47,901 ",42659
+NSW,2773,Lapstone,Sydney - Outer West and Blue Mountains,1841,"$50,776 ",1934,"$75,654 ",63215
+NSW,2773,Glenbrook,Sydney - Outer West and Blue Mountains,1337,"$42,646 ",1300,"$58,045 ",50346
+NSW,2779,Hazelbrook,Sydney - Outer West and Blue Mountains,1337,"$42,646 ",1300,"$58,045 ",50346
